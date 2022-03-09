@@ -46,3 +46,14 @@ Melhoria 1, Melhoria 2
 Contribuidor principal: https://www.github.com/filiperabelo
 
 [![Logo do PHP](https://acadtec.com.br/storage/posts/pictures/ZbXA3OotNOHewDu2q3QB6071a89339aae.jpg)](https://www.github.com/filiperabelo)
+
+## Codigo da funcao soma:
+
+```javascript
+    function soma(a, b) {
+        return a+ b;
+    }
+```
+
+
+
