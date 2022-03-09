@@ -28,3 +28,10 @@ Melhoria 1, Melhoria 2
     3. CSS diferente para cgrupos de clientes.
 2. Integração com outros pagamentos .
 3. Sistema de bônus primeira compra.
+
+#### Imagem local
+
+![logo do PHP](img/PHP.png)
+
+
+
