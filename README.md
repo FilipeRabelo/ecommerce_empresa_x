@@ -51,9 +51,16 @@ Contribuidor principal: https://www.github.com/filiperabelo
 
 ```javascript
     function soma(a, b) {
-        return a+ b;
+        return a + b;
     }
 ```
+## Lista de tarefas a fazer:
+
+-[x] Area de membros
+-[ ] Integracao com outros pagamentos
+-[ ] Sistema de bonus
+-[x] CSS do rodape
+
 
 
 
