@@ -22,6 +22,6 @@ Melhoria 1, Melhoria 2
 ### Funcionalidades a desenvolver: (H3)
 **(LISTA ORDENADA)**
 
-1. Área de membros
-2. Integração com outros pagamentos 
-3. Sistema de bônus primeira compra
+1. Área de membros.
+2. Integração com outros pagamentos .
+3. Sistema de bônus primeira compra.
