@@ -23,5 +23,8 @@ Melhoria 1, Melhoria 2
 **(LISTA ORDENADA)**
 
 1. Área de membros.
+    1. Logim diferente para grupos de clientes
+    2. Desconto especial para grupos de clientes.
+    3. CSS diferente para cgrupos de clientes.
 2. Integração com outros pagamentos .
 3. Sistema de bônus primeira compra.
