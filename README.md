@@ -1,4 +1,4 @@
-# E-commerce empresa X    *(CABECALHOS)*  (H1)
+# E-commerce empresa X  (H1)
 
 Vamos criar um **e-commerce**, para a *empresa X* e blablabla  *(NEGRITO E ITALICO)*
 
