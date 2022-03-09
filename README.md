@@ -56,10 +56,10 @@ Contribuidor principal: https://www.github.com/filiperabelo
 ```
 ## Lista de tarefas a fazer:
 
--[x] Area de membros
--[ ] Integracao com outros pagamentos
--[ ] Sistema de bonus
--[x] CSS do rodape
+- [x] Area de membros
+- [ ] Integracao com outros pagamentos
+- [ ] Sistema de bonus
+- [x] CSS do rodape
 
 
 
