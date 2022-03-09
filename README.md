@@ -14,6 +14,6 @@ Melhoria 1, Melhoria 2
 
 * HTML
 * CSS
-* JAVASCRIPT
+* JAVASCRIPT      **(LISTA NAO ORDENADA)**
 * PHP
 * MySQL
