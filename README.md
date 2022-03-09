@@ -43,3 +43,5 @@ Melhoria 1, Melhoria 2
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
+Contribuidor principal: https://www.github.com/filiperabelo
+
