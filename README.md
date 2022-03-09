@@ -1,16 +1,16 @@
-# E-commerce empresa X    *(CABECALHOS)*
+# E-commerce empresa X    *(CABECALHOS)*  (H1)
 
 Vamos criar um **e-commerce**, para a *empresa X* e blablabla  *(NEGRITO E ITALICO)*
 
-## Funcionalidades: 
+## Funcionalidades:  (H2)
 
 _Checkout, **Tela de produto**, Catálogo, Home com banner._
 
-###### Melhorias do projeto
+###### Melhorias do projeto (H6)
 
 Melhoria 1, Melhoria 2
 
-### Linguagem do projeto
+### Linguagem do projeto (H3)
 
 * HTML
 * CSS
