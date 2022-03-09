@@ -33,7 +33,7 @@ Melhoria 1, Melhoria 2
 
 ![logo do PHP](img/PHP.png) 
 
-#### Imagem externa (externa)
+#### Imagem externa (externa).
 
 ![logo do ph2 link externo](https://www.google.com/url?sa=i&url=https%3A%2F%2Facadtec.com.br%2Fblog%2Fdesenvolvimento-backend%2Fporque-devo-aprender-php-em-2021&psig=AOvVaw1Wb2uji9B4SJTO6-5XfjmE&ust=1646952334827000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCs2uCNuvYCFQAAAAAdAAAAABAO)
 
